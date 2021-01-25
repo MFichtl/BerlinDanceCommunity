@@ -1,0 +1,42 @@
+.description {
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+}
+
+#headline 
+    color: gray;
+    font-size: 60px;
+    font-family: oriya mn;
+}
+
+.image {
+    background-image: Martha_Graham.jpg;
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+}
+
+.caption {
+    font-size: 20px;
+    font-style: italic;
+    display: block;
+    background-color: white;
+    margin-left: 20px;
+    padding: 10px;
+    position: relative;
+    top: 80%;
+    width: 15%;
+    opacity: 0.65;
+}
+    
+.jumbotron
+{
+    background-color:blue !important;
+}
+    
+
+
+    
+    
+    
